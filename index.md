@@ -24,7 +24,7 @@ layout: about
 <br/>
 
 
-### [CV](https://qkrqjatn218.github.io/cv/CV.pdf)
+### [CV](https://qkrqjatn218.github.io/site/cv/CV.pdf)
 
 
 <br/>
