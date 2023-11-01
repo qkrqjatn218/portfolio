@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Generate a logistics dataset for an order picking task"
-info: "2023.04~ present"
+title:  "Build a diagnostic UI for lung diseases using AI Vision"
+info: "2023.10~ present"
 tech: "python"
-type: CMES Company project 
+type: Hanium Contest exhibit project
 ---
 
 ## 업로드 예정
