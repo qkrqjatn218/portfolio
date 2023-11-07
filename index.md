@@ -5,24 +5,25 @@ layout: about
 # About Me
 
 
-*Hello. I am an undergraduate student in the Department of Applied Mathematics at Hanyang University ERICA Campus (expected to graduate in August 2024). I love classical piano music and movie music and enjoy playing the piano. My piano skills are stuck at about Czerny 100, but,,, I'm constantly working on it.*
+*Hello. I am currently an undergraduate student majoring in Applied Mathematics at Hanyang University ERICA Campus, and I expect to graduate in August 2024. I love listening to classical piano music as well as movie soundtracks, and I also enjoy playing the piano.*
 
-*My goal is to be the person who develops an industry that provides personalized music by modeling services such as practical AI compositions or music covers.*
+*I aim to be the person who develops an industry providing personalized music through services like practical AI compositions and music covers.*
 
-*My current field of study is generative models, and I am working on a project to generate a training dataset for a task through a text to image model.*
+*Currently, my field of study revolves around generative models, and my current project involves utilizing a text-to-image model to generate a dataset for order picking task.*
 
-*My research interests include computer-based music composition and production, with particular interest in tasks such as sound synthesis, symbolic music generation, and text to music. I am also interested in areas such as representation learning.*
+*My research interests include computer-based music composition and production, with a specific focus on tasks such as sound synthesis, symbolic music generation, and text-to-music. I am also interested in areas such as representation learning.*
 
 <br/>
 
 
 ### [CV](https://qkrqjatn218.github.io/site/cv/CV.pdf)
+### [자기소개서](https://qkrqjatn218.github.io/site/cv/introduce.pdf)
 
 
 <br/>
 
 # Education
-* **Hanyang University, ERICA(transfer) - (expected 24.08)**
+* **Hanyang University, ERICA(transfer) - (Expected graduation in August 2024)**
    * *Major in applied mathematics*
 
 
@@ -32,7 +33,7 @@ layout: about
 * **[CMES](https://cmes3d.com/), Department of AI (2023/07 ~ 2023/12) - present**
   * *Data Acquisition, Sampling, and Annotation*
   * *Weekly intern seminar (topic: generative models)*
-  * *Generate order picking data*
+  * *Generate logistics dataset*
 
 * **[Zarathu](https://www.zarathu.com/), Department of service (2022/06 ~ 2022/08)**
   * *Clinical trial data preprocessing*
@@ -43,8 +44,10 @@ layout: about
 <br/>
 
 # Project
-* 2023.10~, **"Generate a logistics dataset for an order picking task"**,[CMES](https://cmes3d.com/) Intern project - ***present***
-* 2023.04~, **"Build a diagnostic UI for lung diseases using AI Vision"**, [Hanium](https://www.hanium.or.kr/portal/index.do) Contest exhibit - ***present***
+* 2023.10~, **"Generate a logistics dataset for an order picking task"**, [CMES](https://cmes3d.com/) Intern project
+  * *present*
+* 2023.04~, **"Build a diagnostic UI for lung diseases using AI Vision"**, [Hanium](https://www.hanium.or.kr/portal/index.do) Contest exhibit
+  * *2nd prize in the Hanium Contest exhibit sponsored by Ministry of Science and ICT.*  
 
 <br/>
 
