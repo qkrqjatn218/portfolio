@@ -30,7 +30,7 @@ layout: about
 <br/>
 
 # Internship
-* **[CMES](https://cmes3d.com/), Department of AI (2023/07 ~ 2023/12) - present**
+* **[CMES](https://www.cmesrobotics.ai/), Department of AI (2023/07 ~ 2023/12) - present**
   * *Data Acquisition, Sampling, and Annotation*
   * *Weekly intern seminar (topic: generative models)*
   * *Generate logistics dataset*
@@ -44,7 +44,7 @@ layout: about
 <br/>
 
 # Project
-* 2023.10~, **"Generate a logistics dataset for an order picking task"**, [CMES](https://cmes3d.com/) Intern project
+* 2023.10~, **"Generate a logistics dataset for an order picking task"**, [CMES](https://www.cmesrobotics.ai/) Intern project
   * *present*
 * 2023.04~, **"Build a diagnostic UI for lung diseases using AI Vision"**, [Hanium](https://www.hanium.or.kr/portal/index.do) Contest exhibit
   * *2nd prize in the Hanium Contest exhibit sponsored by Ministry of Science and ICT.*  
