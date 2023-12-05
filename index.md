@@ -16,9 +16,6 @@ layout: about
 <br/>
 
 
-### [CV](https://qkrqjatn218.github.io/site/cv/CV.pdf)
-### [자기소개서](https://qkrqjatn218.github.io/site/cv/introduce.pdf)
-
 
 <br/>
 
@@ -33,7 +30,7 @@ layout: about
 * **[CMES](https://www.cmesrobotics.ai/), Department of AI (2023/07 ~ 2023/12) - present**
   * *Data Acquisition, Sampling, and Annotation*
   * *Weekly intern seminar (topic: generative models)*
-  * *Generate logistics dataset*
+  * *Generate specific images for error case objects in box depalletizing*
 
 * **[Zarathu](https://www.zarathu.com/), Department of service (2022/06 ~ 2022/08)**
   * *Clinical trial data preprocessing*
@@ -44,7 +41,7 @@ layout: about
 <br/>
 
 # Project
-* 2023.10~, **"Generate a logistics dataset for an order picking task"**, [CMES](https://www.cmesrobotics.ai/) Intern project
+* 2023.10~, **"Generate data to improve OD model performance from box depalletizing"**, [CMES](https://www.cmesrobotics.ai/) Intern project
   * *present*
 * 2023.04~, **"Build a diagnostic UI for lung diseases using AI Vision"**, [Hanium](https://www.hanium.or.kr/portal/index.do) Contest exhibit
   * *2nd prize in the Hanium Contest exhibit sponsored by Ministry of Science and ICT.*  
