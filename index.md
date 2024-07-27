@@ -5,13 +5,15 @@ layout: about
 # About Me
 
 
-*Hello. I am currently an undergraduate student majoring in Applied Mathematics at Hanyang University ERICA Campus, and I expect to graduate in August 2024. I love listening to classical piano music as well as movie soundtracks, and I also enjoy playing the piano.*
+*Hi! I'm a backpacker who loves trees and forests, and a rookie engineer eager to conquer algorithms.*
+*I enjoy the process of solving algorithmic problems. If the problem is interesting, I'll work on it until it's solved, no matter how long it takes.*
+*Currently, I'm focusing on becoming a data engineer and am gaining various experiences to achieve this goal.*
+*I am working on several personal projects such as building data pipelines and creating visualizations to hone my data engineering skills.*
+*Additionally, I actively participate in coding communities, where I both share my knowledge and learn from the experiences of others.*
+*In particular, I am constantly learning and staying up-to-date with the latest trends in technology, particularly in data engineering and machine learning.*
+*My ultimate goal is to contribute to impactful projects that leverage data to drive meaningful insights and decisions.*
 
-*I aim to be the person who develops an industry providing personalized music through services like practical AI compositions and music covers.*
 
-*Currently, my field of study revolves around generative models, and my current project involves utilizing a text-to-image model to generate a dataset for order picking task.*
-
-*My research interests include computer-based music composition and production, with a specific focus on tasks such as sound synthesis, symbolic music generation, and text-to-music. I am also interested in areas such as representation learning.*
 
 <br/>
 
@@ -20,20 +22,23 @@ layout: about
 <br/>
 
 # Education
-* **Hanyang University, ERICA(transfer) - (Expected graduation in August 2024)**
-   * *Major in applied mathematics*
+* **Hanyang University,ERICA ,Graduated in August 2024**
+   * *Bachelor of Science in applied mathematics*
 
+<br/>
+## Extracurricular Activities
+* **Samsung Software Academy For Youth, 12th (2024.07~) - present**
+  * *Related Activities_link*
 
 <br/>
 
 # Internship
-* **[CMES](https://www.cmesrobotics.ai/), Department of AI (2023/07 ~ 2023/12) - present**
+* **[CMES](https://www.cmesrobotics.ai/), Department of AI (2023.07 ~ 2023.12)**
   * *Data Acquisition, Sampling, and Annotation*
   * *Weekly intern seminar (topic: generative models)*
   * *Generate specific images for error case objects in box depalletizing*
 
-* **[Zarathu](https://www.zarathu.com/), Department of service (2022/06 ~ 2022/08)**
-  * *Clinical trial data preprocessing*
+* **[Zarathu](https://www.zarathu.com/), Department of service (2022.06 ~ 2022.08)**
   * *R package benchmarking*
   * *Web development and management*
 
@@ -41,16 +46,27 @@ layout: about
 <br/>
 
 # Project
-* 2023.10~, **"Generate data to improve OD model performance from box depalletizing"**, [CMES](https://www.cmesrobotics.ai/) Intern project
-  * *present*
-* 2023.04~, **"Build a diagnostic UI for lung diseases using AI Vision"**, [Hanium](https://www.hanium.or.kr/portal/index.do) Contest exhibit
-  * *2nd prize in the Hanium Contest exhibit sponsored by Ministry of Science and ICT.*  
+* 2023.10~2023.12, **"Generate data to improve OD model performance from box depalletizing"**, [CMES](https://www.cmesrobotics.ai/) Intern project
+  * *result_link*
+* 2023.04~2023.12, **"Build a diagnostic UI for lung diseases using AI Vision"**, [Hanium](https://www.hanium.or.kr/portal/index.do) Contest exhibit
+  * *result_link*  
+
+
+<br/>
+# Awards & Certificates
+* **2nd prize in the [Hanium](https://www.hanium.or.kr/portal/index.do) Contest exhibit sponsored by Ministry of Science and ICT.**
 
 <br/>
 
-# Skill
+# Computer Skills & Languages
 * **R**
 * **Python**
+* **Java**
+* **Matlab**
+* **SQL**
+* **Docker**
+* **MySQL**
+* **Git**
 
 
 

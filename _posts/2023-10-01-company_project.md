@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generate a logistics dataset for an order picking task"
-info: "2023.10~ present"
+info: "2023.10~ 2023.12"
 tech: "python"
 type: CMES project 
 ---
