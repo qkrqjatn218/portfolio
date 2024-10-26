@@ -1,13 +1,13 @@
 # Site settings
-title: "Beomsu Park"
+title: "Mordecai"
 baseurl: "/site"
 url: "https://qkrqjatn218.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Beomsu Park(범수 박)
-  desc: No Pain, No Gain!!
+  name: BEOMSU PARK(범수 박)
+  desc: ROME wasn't built in a day
   email: qkrqjatn218@gmail.com
   selfie: assets/img/IMG_3057.jpg
 
